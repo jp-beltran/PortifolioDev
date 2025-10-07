@@ -1,6 +1,7 @@
 # Portfólio Pessoal
+<img width="1909" height="962" alt="image" src="https://github.com/user-attachments/assets/46d27f3a-91a5-4a48-88d9-3b8398e901aa" />
 
-Este projeto é um portfólio pessoal criado com o objetivo de aprimorar meus conhecimentos em desenvolvimento web, utilizando as tecnologias HTML, CSS e JavaScript.
+Este projeto é um portfólio pessoal criado com o objetivo de aprimorar meus conhecimentos em desenvolvimento web, utilizando as tecnologias HTML, CSS.
 
 ## Sobre o Projeto
 
