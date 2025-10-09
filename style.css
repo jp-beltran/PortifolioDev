@@ -299,6 +299,41 @@ html {
 
 /* SERVICES */
 .services {
-  height: 100vh;
+  height: 35vh;
   background-color: var(--base-gray-600);
+}
+.services {
+  padding: 88px 120px 120px 120px;
+}
+
+.services .row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 56px;
+}
+
+.services .card-service {
+  width: 280px;
+  border-radius: 12px;
+  border: 2px solid var(--base-gray-500);
+  padding: 20px;
+  transition: box-shadow 0.3s ease;
+}
+.services .card-service:hover {
+  cursor: pointer;
+  box-shadow: 0 0 6px rgba(255, 255, 255, 0.25);
+}
+
+.services .card-service h3 {
+  font-family: 'Asap';
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.services .card-service p {
+  font-family: 'Asap';
+  font-weight: 400;
+  margin-bottom: 8px;
 }
